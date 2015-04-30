@@ -1,0 +1,6 @@
+name: Test Module
+description: Just a test module, that does something. Something useful.
+package: Custom
+type: module
+version: 1.0
+core: 8.x

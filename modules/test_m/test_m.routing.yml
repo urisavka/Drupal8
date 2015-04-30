@@ -1,0 +1,7 @@
+test_m.content:
+  path: 'tsst'
+  defaults:
+    _controller: '\Drupal\test_m\Controller\HelloController::content'
+    _title: 'TsstssT'
+  requirements:
+    _permission: 'access content'
